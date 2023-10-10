@@ -7,4 +7,9 @@ public class SHRController {
 		
 	}
 	
+	// 엄성윤
+	public void esy2() {
+		
+	}
+	
 }
