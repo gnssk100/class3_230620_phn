@@ -12,4 +12,8 @@ public class SHRController {
 		
 	}
 	
+	//신혜리
+	public void shr() {
+		
+	}
 }
