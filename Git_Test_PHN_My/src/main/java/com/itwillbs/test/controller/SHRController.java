@@ -12,4 +12,7 @@ public class SHRController {
 		
 	}
 	
+	public void esy3() {
+		
+	}
 }
