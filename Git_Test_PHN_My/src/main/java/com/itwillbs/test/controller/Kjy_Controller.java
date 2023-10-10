@@ -12,5 +12,9 @@ public class Kjy_Controller {
 	public void kjy2() {
 	
 	}
+	
+	public void phn2() {
 		
+	}
+	
 }
