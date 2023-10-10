@@ -12,7 +12,8 @@ public class SHRController {
 		
 	}
 	
-	public void esy3() {
+	//신혜리
+	public void shr() {
 		
 	}
 }
